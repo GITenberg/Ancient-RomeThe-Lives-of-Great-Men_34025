@@ -1,0 +1,29 @@
+_repo: Ancient-RomeThe-Lives-of-Great-Men_34025
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34025-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hamilton, Mary Agnes
+    alias: Hamilton, M. A. (Mary Agnes)
+    birthdate: 1884
+    deathdate: 1966
+    gutenberg_agent_id: '36681'
+    url: http://www.gutenberg.org/2009/agents/36681
+description: ''
+gutenberg_issued: '2010-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34025'
+  lccn: '23005770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Rome -- History -- Juvenile literature'
+- !lcsh 'Rome -- Biography -- Juvenile literature'
+title: 'Ancient Rome: The Lives of Great Men'
+url: http://www.gutenberg.org/ebooks/34025
